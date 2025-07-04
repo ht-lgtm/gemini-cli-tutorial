@@ -1,0 +1,1 @@
+A simple To-Do List application with a graphical user interface.
